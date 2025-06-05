@@ -1,4 +1,4 @@
-#pragma onc
+#pragma once
 
 int add(int, int);
 

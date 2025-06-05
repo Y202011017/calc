@@ -1,6 +1,6 @@
 #include "sub.h"
 
-int divi(int x, int y)
+int dive(int x, int y)
 {
     int quotient = 0;
 
