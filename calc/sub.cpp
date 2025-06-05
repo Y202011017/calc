@@ -1,7 +1,9 @@
 
 int sub(int x, int y)
-{
-	return x - y;
+{     
+	int sub = x-y; 
+	return sub;
+	return 0;
 }
 
 
