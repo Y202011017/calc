@@ -1,6 +1,4 @@
-#pragma once
+#pragma onc
 
-<<<<<<< HEAD
-=======
 int add(int, int);
->>>>>>> dev/add
+
