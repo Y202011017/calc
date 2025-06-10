@@ -2,5 +2,14 @@
 
 int dive(int x, int y)
 {
-	return 0;
+    int div = 0;
+
+    while (x >= y)
+    {
+        x = sub(x, y);
+        div++;
+    }
+
+    return div;
 }
+
