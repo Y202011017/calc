@@ -1,3 +1,3 @@
 #pragma once
 
-int mod(int, int);
+int mod(int x, int y);
