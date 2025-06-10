@@ -1,3 +1,3 @@
 #pragma once
-
-int add(int, int);
+//더하기
+int add(int,int);

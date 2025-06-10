@@ -1,3 +1,3 @@
 #pragma once
-
-int sub(int, int);
+//빼기 
+int sub(int,int);
